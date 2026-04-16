@@ -1,2 +1,3 @@
-# Rock-Paper-Scissors
-This project consists of developing an automated player for the Rock-Paper-Scissors game. The goal is to design a strategy that adapts to the opponent’s behavior by analyzing previous moves to predict future actions and maximize the win rate against different types of players.
+# Rock Paper Scissors
+
+This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
